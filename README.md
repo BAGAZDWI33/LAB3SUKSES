@@ -31,11 +31,11 @@ Bahkan dapat menghapus daftar sepenuhnya.
 
 # basic list operational
 ini tampilannya
-![img]sreenshorts/k19.png
+![img]materi3/k19.png
 
 # python list methods
 ini tampilannya 
-![img]sreenshorts/k20.png
+![img]materi/k20.png
 
 # tuple
 Tuple
@@ -43,7 +43,7 @@ Tuple
 • Karena berbentuk sequences maka operasi-operasi di atas dapat diterapkanterhadap tuples.
 #tuple methods
 ini adalah tampilannya
-![img]sreenshorts/k18.png
+![img]materi1/k18.png
 
 # dictionary
 Dictionary
@@ -53,4 +53,4 @@ Dictionary
 
 # dictionary methods
 ini adalah tampilannya
-![img]sreenshorts/k17.png
+![img]materi2/k17.png
