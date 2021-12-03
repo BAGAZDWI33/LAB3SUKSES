@@ -9,14 +9,14 @@ sequence.
 • List (Daftar) adalah salah satu datatype yang paling sering digunakan dan sangat serbaguna yang digunakan dengan Python. 
 • Pada pemrograman Python, List dibuat dengan menempatkan semua item (elemen) di dalam kurung siku [],dipisahkan dengan tanda koma.
  
-# Empty list
+#### Empty list
 my_list = []
-# list of integer
+#### list of integer
 my_list = [1,2,3]
-# list with mixed datatypes
+#### list with mixed datatypes
 my_list = [1,"hello",3.4]
  
-# Access elements from a list
+## Access elements from a list
 pada program elements list.py dijelaskan bahwa Untuk mengakses daftar valuesin, gunakan tanda kurung siku untuk mengiris bersama dengan
 indeks orindicesto mendapatkan nilai yang tersedia atthatindex. Indeks dimulai dari 0. Jadi, daftar yang memiliki 5 elemen akan memiliki indeks dari 0 ke 4. Indeks harus berupa integer.
 
@@ -29,28 +29,31 @@ pada program change element.py dan add elements.py dijelaskan bahwa  Daftar dapa
 pada program remove elements.py dijelaskan bahwa Kita dapat menghapus satu atau beberapa item dari daftar menggunakan kata kunci del. Dia
 Bahkan dapat menghapus daftar sepenuhnya.
 
-# basic list operational
-ini tampilannya
+## basic list operational
+ini adalah tampilannya
 ![img]materi3/k19.png
 
-# python list methods
-ini tampilannya 
+## python list methods
+ini adalah tampilannya 
 ![img]materi/k20.png
 
-# tuple
+## tuple
 Tuple
 • Tuple sama seperti List, hanya saja pada tuple datanya bersifat tetapatau tidak dapat diubah-ubah. 
 • Karena berbentuk sequences maka operasi-operasi di atas dapat diterapkanterhadap tuples.
-#tuple methods
+###tuple methods
 ini adalah tampilannya
 ![img]materi1/k18.png
 
-# dictionary
+## dictionary
 Dictionary
 • Dictionaries adalah koleksi pasangan item-item berasosiasi dimana setiap pasangan terdiri dari suatu key dan value. 
 • Pasangan key-value ini ditulis seabagai key:value. 
 • Dictionaries ditulis dipisahkan koma dalam kurung kurawal.
 
-# dictionary methods
+## dictionary methods
 ini adalah tampilannya
 ![img]materi2/k17.png
+
+# tugas pertemuan 9
+berada di program "latihan.py" dan "tugas pratikum.py"
